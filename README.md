@@ -14,7 +14,8 @@ Taking your ideas from _"Hello world!"_ to _"Look mom it's in production!"_ sinc
     - scrum / agile
     - consulting
     - coaching
-    - career advice and resume reviews
+    - career advice 
+    - resume writing
     - more...
 
 Get in touch: info@frontand.io
