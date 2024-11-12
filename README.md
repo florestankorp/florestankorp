@@ -6,10 +6,9 @@ Taking your ideas from _"Hello world!"_ to _"Look mom it's in production!"_ sinc
 
     - frontend development
     - backend development
+    - UX/UI design
     - code reviews
     - testing
-    - mobile
-    - UX/UI design
     - project management
     - scrum / agile
     - consulting
