@@ -1,5 +1,23 @@
-## Hi there 👋
-I'm Florestan and I can take your web development ideas from "Hello world!" to "Look mom it's in production!" 
+# Hi, I'm Florestan 👋
+
+Taking your ideas from _"Hello world!"_ to _"Look mom it's in production!"_ since 2017
+
+## My services
+
+    - frontend development
+    - backend development
+    - code reviews
+    - testing
+    - mobile
+    - UX/UI design
+    - project management
+    - scrum / agile
+    - consulting
+    - coaching
+    - career advice and resume reviews
+    - more...
+
+Get in touch: info@frontand.io
 
 <!--
 **florestankorp/florestankorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
