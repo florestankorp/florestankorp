@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Florestan and I can take your web development ideas from "Hello world!" to "Look mom it's in production!" 
 
 <!--
 **florestankorp/florestankorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
