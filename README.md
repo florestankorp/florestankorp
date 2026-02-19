@@ -17,8 +17,7 @@ Taking your ideas from _"Hello world!"_ to _"Look mom it's in production!"_ sinc
     - resume writing
     - more...
 
-Get in touch: info@frontand.io
-
+https://frontand.io/
 <!--
 **florestankorp/florestankorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
