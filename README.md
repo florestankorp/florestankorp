@@ -1,6 +1,10 @@
 ## Hey, I'm Florestan 👋
 
-Senior Product Engineer based in Amsterdam. I build software for the web. Proudly avoiding meetings since 2017 :)
+Senior Product Engineer based in Amsterdam. 
+
+I build software for the web. 
+
+Proudly avoiding meetings since 2017 :)
 
 I've built products from scratch ([CleverCash](https://clevercash.nl)), worked for government, and consulted across different industries. My background in graphic design and photography shapes how I think about software, systems and user interfaces: structure and details matter. Things should feel polished and considered...the same goes for codebases and systems.
 
